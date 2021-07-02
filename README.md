@@ -1,2 +1,2 @@
-# S.A.E
- Sistema de Agendamento Estudantil
+# S.E.A
+ Sistema Estudantil de Agendamento 
